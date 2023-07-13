@@ -32,7 +32,6 @@ tags_metadata = [
 def create_app() -> FastAPI:
     """Creates the app and includes the router"""
     api = FastAPI(
-        debug=True,
         title="2nd Product API",
         summary="This Api is example of E-commerce website just like OLX",
         version="v1.0.0",
