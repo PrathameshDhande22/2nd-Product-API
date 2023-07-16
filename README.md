@@ -1,7 +1,6 @@
 ## Rest API: 2nd Product API
 
-![GitHub](https://img.shields.io/github/license/prathameshdhande22/2nd-Product-API)
-
+![GitHub](https://img.shields.io/github/license/Prathameshdhande22/2nd-Product-API?logo=github&color=blue&style=flat-square)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
