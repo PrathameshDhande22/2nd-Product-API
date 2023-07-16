@@ -48,6 +48,12 @@ python -m venv venv
 ```
 pip install -r reqirements.txt
 ```
+5. Edit `.env` file:
+```
+MONGODB_URI="Your MongoDB URI"
+SECRET_KEY="Your Secret Key"
+```
+
 5. Run the `run.py` 
 file: 
 ```
